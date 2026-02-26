@@ -1,4 +1,4 @@
-# Death-Rate-Due-to-Accident-for-Left-Handed-British-Cricketers
+# Survival-Analysis: Death-Rate-Due-to-Accident-for-Left-Handed-British-Cricketers
 In countries such as the UK where firearm is legal with a certificate, as firearms are made for 
 righthanded users as the majority and clears bullet shells on the right side, which position where 
 lefthanded user positions their face at, which poses danger to lefthanded users when using firearm in 
